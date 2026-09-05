@@ -2,7 +2,7 @@
 
 Welcome to my Data Analyst Portfolio.
 
-This repository contains my projects and practice work using Python and data analysis libraries.
+This repository contains my projects in Data Analysis using Python, Excel, SQL, and Power BI.
 
 ## 🛠️ Skills & Tools
 
@@ -16,35 +16,32 @@ This repository contains my projects and practice work using Python and data ana
 
 ## 📊 Projects
 
-### 1. Professional Sales Analysis
-A sales data analysis project using Python to explore sales data and generate insights.
+### 🐍 Python Projects
 
-**Tools:** Python, Pandas, NumPy, Matplotlib
+- Professional Sales Analysis
+- Pandas Projects
+- NumPy Projects
+- Matplotlib Projects
+- Internship Project
 
-### 2. Pandas
-Practice projects focused on data manipulation and analysis using Pandas.
+### 📗 Excel Projects
 
-**Tool:** Pandas
+Projects focused on data cleaning, analysis, formulas, PivotTables, and reporting using Microsoft Excel.
 
-### 3. NumPy
-Practice projects focused on numerical computing and data manipulation using NumPy.
+### 📈 Power BI Projects
 
-**Tool:** NumPy
+Interactive dashboards and data visualization projects using Microsoft Power BI.
 
-### 4. Matplotlib
-Practice projects focused on data visualization using Matplotlib.
+### 🗄️ SQL Projects
 
-**Tool:** Matplotlib
+Projects focused on querying, analyzing, and extracting insights from databases using SQL.
 
-### 5. Internship Project
-A Python-based project completed as part of my practical learning.
+## 🎯 About Me
 
-**Tool:** Python
+I am building my skills in Data Analysis and developing practical projects using different data analysis tools.
 
-## 🎯 Goal
-
-I am building my skills in Data Analysis and looking for opportunities to apply my knowledge to real-world data problems.
+My goal is to apply my analytical skills to real-world business problems and grow as a Data Analyst.
 
 ---
 
-**Thank you for visiting my portfolio!**
+Thank you for visiting my portfolio!
